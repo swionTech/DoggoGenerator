@@ -1,13 +1,14 @@
 html {
     font-size: 2rem;
     font-family: 'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
-    background: linear-gradient(lightgreen, green);
-    height: 100%;
+    background: linear-gradient(purple, plum, lavender, pink, orange);
+    height: 100vh;
 }
 
 header {
     margin-bottom: 30px;
     text-align: center;
+    text-shadow: -2px 2px 3px white;
 }
 
 select {
